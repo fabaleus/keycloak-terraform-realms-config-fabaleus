@@ -1,0 +1,36 @@
+2021/06/13 10:53:06 [INFO] Terraform version: 0.14.8  
+2021/06/13 10:53:06 [INFO] Go runtime version: go1.15.6
+2021/06/13 10:53:06 [INFO] CLI args: []string{"/Users/hanboo/Dropbox/git/tfenv/versions/0.14.8/terraform", "--version"}
+2021/06/13 10:53:06 [DEBUG] Attempting to open CLI config file: /Users/hanboo/.terraformrc
+2021/06/13 10:53:06 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2021/06/13 10:53:06 [DEBUG] checking for credentials in "/Users/hanboo/.terraform.d/plugins"
+2021/06/13 10:53:06 [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2021/06/13 10:53:06 [DEBUG] will search for provider plugins in /Users/hanboo/.terraform.d/plugins
+2021/06/13 10:53:06 [TRACE] getproviders.SearchLocalDirectory: /Users/hanboo/.terraform.d/plugins is a symlink to /Users/hanboo/.terraform.d/plugins
+2021/06/13 10:53:06 [DEBUG] ignoring non-existing provider search directory /Users/hanboo/Library/Application Support/io.terraform/plugins
+2021/06/13 10:53:06 [DEBUG] ignoring non-existing provider search directory /Library/Application Support/io.terraform/plugins
+2021/06/13 10:53:06 [INFO] CLI command args: []string{"version", "--version"}
+2021/06/13 10:53:09 [INFO] Terraform version: 0.14.8  
+2021/06/13 10:53:09 [INFO] Go runtime version: go1.15.6
+2021/06/13 10:53:09 [INFO] CLI args: []string{"/Users/hanboo/Dropbox/git/tfenv/versions/0.14.8/terraform", "--version"}
+2021/06/13 10:53:09 [DEBUG] Attempting to open CLI config file: /Users/hanboo/.terraformrc
+2021/06/13 10:53:09 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2021/06/13 10:53:09 [DEBUG] checking for credentials in "/Users/hanboo/.terraform.d/plugins"
+2021/06/13 10:53:09 [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2021/06/13 10:53:09 [DEBUG] will search for provider plugins in /Users/hanboo/.terraform.d/plugins
+2021/06/13 10:53:09 [TRACE] getproviders.SearchLocalDirectory: /Users/hanboo/.terraform.d/plugins is a symlink to /Users/hanboo/.terraform.d/plugins
+2021/06/13 10:53:09 [DEBUG] ignoring non-existing provider search directory /Users/hanboo/Library/Application Support/io.terraform/plugins
+2021/06/13 10:53:09 [DEBUG] ignoring non-existing provider search directory /Library/Application Support/io.terraform/plugins
+2021/06/13 10:53:09 [INFO] CLI command args: []string{"version", "--version"}
+2021/06/13 10:53:12 [INFO] Terraform version: 0.14.8  
+2021/06/13 10:53:12 [INFO] Go runtime version: go1.15.6
+2021/06/13 10:53:12 [INFO] CLI args: []string{"/Users/hanboo/Dropbox/git/tfenv/versions/0.14.8/terraform", "--version"}
+2021/06/13 10:53:12 [DEBUG] Attempting to open CLI config file: /Users/hanboo/.terraformrc
+2021/06/13 10:53:12 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2021/06/13 10:53:12 [DEBUG] checking for credentials in "/Users/hanboo/.terraform.d/plugins"
+2021/06/13 10:53:12 [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2021/06/13 10:53:12 [DEBUG] will search for provider plugins in /Users/hanboo/.terraform.d/plugins
+2021/06/13 10:53:12 [TRACE] getproviders.SearchLocalDirectory: /Users/hanboo/.terraform.d/plugins is a symlink to /Users/hanboo/.terraform.d/plugins
+2021/06/13 10:53:12 [DEBUG] ignoring non-existing provider search directory /Users/hanboo/Library/Application Support/io.terraform/plugins
+2021/06/13 10:53:12 [DEBUG] ignoring non-existing provider search directory /Library/Application Support/io.terraform/plugins
+2021/06/13 10:53:12 [INFO] CLI command args: []string{"version", "--version"}

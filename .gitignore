@@ -1,0 +1,24 @@
+# Only add project specific ignores in this file
+# Operating system or editor specific ignores should be placed in your global ignore file
+# See https://git-scm.com/docs/gitignore  &  https://github.com/github/gitignore
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.zip
+*terraform-provider-keycloak*
+*terraform-provider-aws*
+
+# Test binary, build with `go test -c`
+*.test
+/temp
+
+.terraform/
+terraform.tfstate*
+*.plan
+
+.gradle/
+
